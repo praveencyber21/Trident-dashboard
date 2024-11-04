@@ -1,0 +1,5 @@
+config.properties
+.env
+.idea
+# Project exclude paths
+/out/
